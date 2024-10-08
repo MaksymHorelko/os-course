@@ -1,0 +1,33 @@
+mint@asus-mint:~/git/op-course/lab1/task3$ ./task3 
+Enter the number of students (max 30): 3
+Enter data for student 1:
+Surname: Ivanov
+Group number (1-4): 1
+Web Technologies score: 87
+Ukrainian Language score: 73
+Design Information Systems score: 95
+Enter data for student 2:
+Surname: Petrichenko
+Group number (1-4): 2
+Web Technologies score: 54
+Ukrainian Language score: 25 
+Design Information Systems score: 96
+Enter data for student 3:
+Surname: Babidjon
+Group number (1-4): 3
+Web Technologies score: 100
+Ukrainian Language score: 96
+Design Information Systems score: 91
+
+Students with debts:
+Petrichenko
+
+Percentage of students with all 'good' or 'excellent' marks: 33.33%
+
+Best subject based on average score:
+Design Information Systems
+
+Group with worst performance:
+Group 2
+mint@asus-mint:~/git/op-course/lab1/task3$ 
+
