@@ -60,6 +60,12 @@
     "math.h": "c",
     "process.h": "c",
     "math_series.h": "c",
-    "arraylist.h": "c"
+    "arraylist.h": "c",
+    "process_info.h": "c",
+    "time.h": "c",
+    "monte_carlo.h": "c",
+    "stdlib.h": "c",
+    "child_thread.h": "c",
+    "stdio.h": "c"
   }
 }
