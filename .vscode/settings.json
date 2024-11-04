@@ -66,6 +66,11 @@
     "monte_carlo.h": "c",
     "stdlib.h": "c",
     "child_thread.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "random_thread.h": "c",
+    "catalan_thread.h": "c",
+    "prime_thread.h": "c",
+    "catalan.h": "c",
+    "primes.h": "c"
   }
 }
