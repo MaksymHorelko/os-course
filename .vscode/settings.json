@@ -71,6 +71,9 @@
     "catalan_thread.h": "c",
     "prime_thread.h": "c",
     "catalan.h": "c",
-    "primes.h": "c"
+    "primes.h": "c",
+    "pthread.h": "c",
+    "unistd.h": "c",
+    "worker.h": "c"
   }
 }
