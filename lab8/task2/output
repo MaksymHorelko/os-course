@@ -1,0 +1,35 @@
+mint@asus-mint:~/git/op-course/lab8/task2$ ./bin/main 
+Producer generated: 53
+Consumer consumed: 53
+Producer generated: 39
+Consumer consumed: 39
+Producer generated: 63
+Consumer consumed: 63
+Producer generated: 23
+Consumer consumed: 23
+Producer generated: 52
+Consumer consumed: 52
+Producer generated: 72
+Consumer consumed: 72
+Producer generated: 98
+Consumer consumed: 98
+Producer generated: 14
+Consumer consumed: 14
+Producer generated: 5
+Consumer consumed: 5
+Producer generated: 18
+Consumer consumed: 18
+Producer generated: 55
+Consumer consumed: 55
+Producer generated: 3
+Consumer consumed: 3
+Producer generated: 30
+Consumer consumed: 30
+Producer generated: 77
+Consumer consumed: 77
+Producer generated: 40
+Consumer consumed: 40
+Time is up. Cancelling threads...
+Program completed.
+mint@asus-mint:~/git/op-course/lab8/task2$ 
+
