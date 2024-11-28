@@ -74,6 +74,10 @@
     "primes.h": "c",
     "pthread.h": "c",
     "unistd.h": "c",
-    "worker.h": "c"
+    "worker.h": "c",
+    "buffer.h": "c",
+    "string.h": "c",
+    "signal.h": "c",
+    "signal_handler.h": "c"
   }
 }
